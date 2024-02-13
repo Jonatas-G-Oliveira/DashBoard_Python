@@ -8,4 +8,5 @@ Criação de Dashboard utilizando a biblioteca Streamlit do Python
 
 ##
 # Resultado Final
-https://github.com/Jonatas-G-Oliveira/DashBoard_Python/issues/1#issue-2131229963
+![image](https://github.com/Jonatas-G-Oliveira/DashBoard_Python/assets/130922069/cdaa5bce-1a8f-4b97-bc13-017a364c5700)
+
